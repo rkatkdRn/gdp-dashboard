@@ -1,2 +1,7 @@
 streamlit
 pandas
+streamlit-folium
+folium
+requests
+plotly
+pytz
